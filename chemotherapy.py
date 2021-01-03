@@ -31,7 +31,7 @@ nonocos
 triacont
 hentriacont
 dotriacont
-tritiacont
+tritriacont
 tetriacont
 pentatriacont
 hexatriacont
